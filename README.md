@@ -18,7 +18,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD3](td03_enonce.iypb) | Les bases de Python |✅|: 
 | [TD4](td03_enonce.iypnb) | Les Fonctions et Numpy |✅|:
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | ✅:
-| [TD6](td06_enonce.ipynb) | Logiques, flux de controle et boucles | ✅:
+| [TD6](td06_enonce.iypnb) | Logiques, flux de contrôle et boucles |✅|:
 | [TD7](td07_enonce.ipynb) | Étude de cas et mini-projet 1 |✅|:
 ## Crédits
 
